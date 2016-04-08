@@ -1,0 +1,6 @@
+[
+  { "usuarios_unicos": 80, "transacoes": 70, "date": "31/01/16" },
+  { "usuarios_unicos": 90, "transacoes": 75, "date": "01/02/16" },
+  { "usuarios_unicos": 94, "transacoes": 75, "date": "02/02/16" },
+  { "usuarios_unicos": 100, "transacoes": 81, "date": "03/02/16" }
+]
